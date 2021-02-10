@@ -1,5 +1,3 @@
-# In-App-Purchase-Subscription
-
 # Preview Images
 
 ![SC1](https://github.com/VimalPatel14/In-App-Purchase-Subscription/blob/master/sc1.jpg)
